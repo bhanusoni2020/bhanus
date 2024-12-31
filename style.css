@@ -1,0 +1,154 @@
+.logo {
+    width: 40px;
+    height: 23px;
+    background-color: white;
+}
+
+.logo img {
+    width: 164px;
+}
+
+nav {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.right ul {
+    display: flex;
+    gap: 26px;
+
+}
+
+.right ul li {
+    list-style: none;
+
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin: 70px;
+    font-family: sans-serif;
+}
+
+.first span {
+    font-size: 40px;
+    line-height: 1.3em;
+    padding:  0px;
+    margin: 0px;
+
+}
+
+section span img {
+    margin: 0 23px;
+    width: 82px;
+   
+
+}
+
+.first p {
+    font-size: 23px;
+    width: 44vw;
+    text-align: center;
+}
+
+.first p {
+    font-size: 110%;
+    width: 44vw;
+    text-align: center;
+}
+
+.first div button {
+    height: 48px;
+    min-width: 256px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #00b6d1;
+    border: 2px solid #00b6d1;
+    border-radius: 6px;
+    color: white;
+    font-size: 100%;
+}
+
+section {
+    display: flex;
+}
+
+.small {
+    font-size: 12px;
+
+}
+
+.sec {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {}
+
+h3 {
+    font-size: large;
+    padding: ;
+}
+
+
+.container {
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 20px;
+
+
+
+}
+
+.item {
+    border: 2px solid black;
+    height: 25vh;
+    box-sizing: border-box;  
+    padding: 20px;  
+    margin: 20px;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-color: #f9f9f9;
+    text-align: center;
+    
+
+}
+.item button{
+    color: #fff;
+    background-color: #5cb85c;
+    padding: 8px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 6px;
+    border: 0px;
+}
+.container .item p{
+    font-size: 8px;
+    padding: 0%;
+    padding-bottom: 1cm;
+}
+.strong{
+    padding-top: 0%;
+    margin: 0%;
+}
+.right div{
+    height: 20px;
+    width: 20px;
+    padding: 0%;
+    margin: 0%;
+}
